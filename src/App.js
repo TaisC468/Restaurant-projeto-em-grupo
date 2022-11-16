@@ -4,6 +4,7 @@ import { GlobalStyle } from './globalStyles';
 import Hero from './components/Hero';
 import Products from './components/Products';
 import { productData } from './components/Products/data';
+import {  Footer } from './components/Footer/index';
 
 
 
@@ -15,7 +16,10 @@ function App() {
       <GlobalStyle />
     <Hero />
     <Products heading="Escolha seu favorito" data={productData}/>
+    <Footer/>
     </Router>
+    
+   
   );
 };
 
