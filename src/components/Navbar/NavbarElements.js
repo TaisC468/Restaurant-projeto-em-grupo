@@ -4,7 +4,7 @@ import { BiDish } from 'react-icons/bi';
 
 
 export const Nav = styled.nav`
-  background: transparent;
+  background: black;
   height: 80px;
   display: flex;
   justify-content: center;
