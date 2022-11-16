@@ -6,9 +6,6 @@ import Products from './components/Products';
 import { productData } from './components/Products/data';
 
 
-
-
-
 function App() {
   return (
     <Router>
