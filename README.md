@@ -24,6 +24,19 @@
 ![c25f11e3-8ae9-4f8f-912d-28dc1912cf3d](https://user-images.githubusercontent.com/101163328/202902821-6e01bc47-e371-41e8-b3da-2a665f2c38a3.jpg)
 
 <h1 id="Sobre" align="center">💻Desenvolvedores💻</h1>
+
+
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/101163328/202913939-cd82c466-904e-4d5d-921a-1ac698b89dd9.jpg" width="700px" />
+</div>
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
