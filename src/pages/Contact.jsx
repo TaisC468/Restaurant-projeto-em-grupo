@@ -28,7 +28,7 @@ nosso melhor produto até a mesa da sua casa!</h4>
 
 <h1 class="sobrenos">Nosso principal objetivo:</h1>
 <br></br>
-<h4 class="sobrenos">O cliente é a nossa principal motivação para a entrega de bons pratos. Portanto, nosso
+<h4 class="sobrenos"> O cliente é a nossa principal motivação para a entrega de bons pratos. Portanto, nosso
 objetivo principal não poderia ser algo que não fosse você! Então, nós buscamos melhorar
 sempre, constantemente para que dentro ou fora do nosso restaurante você possa fazer
 grandes momentos com quem ama da melhor forma
@@ -36,7 +36,7 @@ possível.</h4>
 
 <br></br>
 
-<h4 class="sobrenos">Buscamos sempre aprimorar nossos temperos para que o sabor seja cada vez
+<h4 class="sobrenos"> Buscamos sempre aprimorar nossos temperos para que o sabor seja cada vez
 melhor, focando também na entrega para que você receba seu pedido quentinho e
 cheirosos como se tivesse saído do forno direto para sua mesa. Pensamos sempre no seu
 paladar, como te deixar com aquele sentimento delicioso de se sentir em casa.</h4>
