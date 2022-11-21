@@ -36,8 +36,8 @@ const Checkout = () => {
   };
 
   return (
-    <Helmet title="Checkout">
-      <CommonSection title="Checkout" />
+    <Helmet title="Revisão">
+      <CommonSection title="Revisão" />
       <section>
         <Container>
           <Row>
@@ -56,7 +56,7 @@ const Checkout = () => {
                 <div className="form__group">
                   <input
                     type="email"
-                    placeholder="Enter your email"
+                    placeholder="Email"
                     required
                     onChange={(e) => setEnterEmail(e.target.value)}
                   />
