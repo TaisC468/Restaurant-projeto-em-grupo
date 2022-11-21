@@ -41,7 +41,7 @@ const Login = () => {
                 </button>
               </form>
               <Link to="/register">
-                Não tem uma conta? Create an account
+                Não tem uma conta? Crie uma conta
               </Link>
             </Col>
           </Row>

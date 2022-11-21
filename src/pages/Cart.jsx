@@ -24,11 +24,11 @@ const Cart = () => {
                 <table className="table table-bordered">
                   <thead>
                     <tr>
-                      <th>Image</th>
-                      <th>Product Title</th>
-                      <th>Price</th>
-                      <th>Quantity</th>
-                      <th>Delete</th>
+                      <th>Imagem</th>
+                      <th>Produto</th>
+                      <th>Preço</th>
+                      <th>Quantidade</th>
+                      <th>Deletar</th>
                     </tr>
                   </thead>
                   <tbody>
