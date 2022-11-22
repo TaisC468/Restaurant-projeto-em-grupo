@@ -12,8 +12,8 @@
 
 <h1> NA SUA MESA </h1>
 <hr>
-  <p><b>Link para a página:</b><p>
-    <p> http://localhost:3000 </p>
+  <p><b>Como acessar?</b><p>
+    <p> Entre na pasta do projeto e verifique as instalações do npm e react-scripts, após isso dê um npm start para inicialização do projeto. </p>
 <hr>
   <p> Projeto onde precisamos desenvolver um site utilizando o o framework React, nele deverá utilizar um servidor Json construído anteriormente. </p>
 <hr> 
