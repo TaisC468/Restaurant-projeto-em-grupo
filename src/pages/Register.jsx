@@ -49,7 +49,7 @@ const Register = () => {
                   Cadastre-se
                 </button>
               </form>
-              <Link to="/login">Já tem uma conta? Login</Link>
+              <Link to="/login">Já tenho uma conta! Login</Link>
             </Col>
           </Row>
         </Container>
